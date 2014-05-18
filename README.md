@@ -1,10 +1,10 @@
 Tasker.Check-Internet
 ======================
 
-== Requirements ==
+## Requirements
 * Tasker (Android App)
 
-== What does it DO? ==
+## What does it DO? ==
 I got really tired of having my cable Internet go down while I was asleep and waking up to find that I had no Internet access and people had been trying to get ahold of me via Instant Messenger or some such.  My phone, of course, has cellular data access but if Wifi is connected the phone will usually just sit there like anything that doesn't have the word "Smart" in the name with no Internet access.
 
 In my case, my ISP was working fine but my router kept getting overloaded or overheated or just over-it and would stop tossing packets to/from a client on the WiFi connection.  So my designed this so it detects a problem, resets the WiFi of my device (and provides a nice notification with the time it happened) and tries again.  It does this 3 times.  If after 3 resets it still can't find a network connection then it turns WiFi off.
