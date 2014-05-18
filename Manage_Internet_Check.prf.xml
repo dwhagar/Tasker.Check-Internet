@@ -1,0 +1,47 @@
+<TaskerData sr="" dvi="1" tv="4.3u4m">
+	<Profile sr="prof7" ve="2">
+		<cdate>1399990165861</cdate>
+		<clp>true</clp>
+		<edate>1398486790688</edate>
+		<flags>8</flags>
+		<id>7</id>
+		<mid0>4</mid0>
+		<mid1>3</mid1>
+		<nme>Manage Internet Check</nme>
+		<State sr="con0" ve="2">
+			<code>160</code>
+			<Str sr="arg0" ve="3"/>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3"/>
+		</State>
+	</Profile>
+	<Task sr="task3">
+		<cdate>1368299802421</cdate>
+		<edate>1398480488827</edate>
+		<id>3</id>
+		<nme>Disable Internet Check</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>159</code>
+			<Str sr="arg0" ve="3">Check Internet</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_aaa_ext_gear</nme>
+		</Img>
+	</Task>
+	<Task sr="task4">
+		<cdate>1368299836984</cdate>
+		<edate>1398486790688</edate>
+		<id>4</id>
+		<nme>Enable Internet Check</nme>
+		<Action sr="act0" ve="5">
+			<code>159</code>
+			<Str sr="arg0" ve="3">Check Internet</Str>
+			<Int sr="arg1" val="1"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_aaa_ext_gear</nme>
+		</Img>
+	</Task>
+</TaskerData>
