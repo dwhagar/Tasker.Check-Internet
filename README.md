@@ -1,4 +1,4 @@
-Taskers.Check-Internet
+Tasker.Check-Internet
 ======================
 
 == Requirements ==
